@@ -1,0 +1,12 @@
+# application ignores
+/app/logs/*
+/composer.phar
+composer.lock
+/vendor/*
+
+# phpstorm ignores
+*.iml
+*.ipr
+*.iws
+.idea/
+atlassian-ide-plugin.xml

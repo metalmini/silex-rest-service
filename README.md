@@ -10,7 +10,7 @@
 ` 
 {
     "require": {
-        " metalmini/SilexRestService": "master"
+        " metalmini/silex-rest-service": "master"
     }
 }
 `

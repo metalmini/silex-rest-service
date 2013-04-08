@@ -1,5 +1,5 @@
 # New and improved version of: #
-(https://github.com/fjalvarezdd/SilexRestServer "fjalvarezdd/SilexRestServer")
+[fjalvarezdd/SilexRestServer](https://github.com/fjalvarezdd/SilexRestServer "fjalvarezdd/SilexRestServer")
 
 # first things first: #
 
@@ -7,13 +7,13 @@
 
 # Create conposer.json #
 
-` 
+```json 
 {
     "require": {
-        " metalmini/silex-rest-service": "master"
+        "metalmini/silex-rest-service": "dev-master"
     }
 }
-`
+```
 
 # Run composer to install #
 

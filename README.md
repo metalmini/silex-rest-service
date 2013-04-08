@@ -1,22 +1,21 @@
-New and improved version of:
-- https://github.com/fjalvarezdd/SilexRestServer
+# New and improved version of: #
+(https://github.com/fjalvarezdd/SilexRestServer "fjalvarezdd/SilexRestServer")
 
+# first things first: #
 
-first things first:
+`curl -sS https://getcomposer.org/installer | php`
 
-curl -sS https://getcomposer.org/installer | php
+# Create conposer.json #
 
-create composer.json
-
+` 
 {
     "require": {
-        "silex/silex": "1.0.*@dev",
-        "doctrine/dbal": "2.3.3",
-        "doctrine/common": "2.3.0"
+        " metalmini/SilexRestService": "master"
     }
 }
+`
 
-run composer to install base
+# Run composer to install #
 
-./composer.phar install
+`./composer.phar install`
 

@@ -1,4 +1,5 @@
 {
+    "name": "metalmini/SilexRestService",
     "require": {
         "silex/silex": "1.0.*@dev",
         "doctrine/dbal": "2.3.3",
